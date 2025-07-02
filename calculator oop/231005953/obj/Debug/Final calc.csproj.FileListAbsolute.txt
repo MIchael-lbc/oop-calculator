@@ -1,0 +1,13 @@
+D:\Final calc\bin\Debug\Final calc.exe.config
+D:\Final calc\bin\Debug\Final calc.exe
+D:\Final calc\bin\Debug\Final calc.pdb
+D:\Final calc\obj\Debug\Final calc.csproj.AssemblyReference.cache
+D:\Final calc\obj\Debug\Final_calc.Form1.resources
+D:\Final calc\obj\Debug\Final_calc.Properties.Resources.resources
+D:\Final calc\obj\Debug\Final calc.csproj.GenerateResource.cache
+D:\Final calc\obj\Debug\Final calc.csproj.CoreCompileInputs.cache
+D:\Final calc\obj\Debug\Final calc.exe
+D:\Final calc\obj\Debug\Final calc.pdb
+D:\Final calc\bin\Debug\NCalc.dll
+D:\Final calc\obj\Debug\WindowsFormsApp1.GraphForm.resources
+D:\Final calc\obj\Debug\Final calc.csproj.Up2Date

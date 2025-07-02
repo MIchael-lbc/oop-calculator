@@ -1,0 +1,17 @@
+D:\Draft\bin\Debug\net8.0-windows\Draft.exe
+D:\Draft\bin\Debug\net8.0-windows\Draft.deps.json
+D:\Draft\bin\Debug\net8.0-windows\Draft.runtimeconfig.json
+D:\Draft\bin\Debug\net8.0-windows\Draft.dll
+D:\Draft\bin\Debug\net8.0-windows\Draft.pdb
+D:\Draft\obj\Debug\net8.0-windows\Draft.Form1.resources
+D:\Draft\obj\Debug\net8.0-windows\Draft.csproj.GenerateResource.cache
+D:\Draft\obj\Debug\net8.0-windows\Draft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Draft\obj\Debug\net8.0-windows\Draft.AssemblyInfoInputs.cache
+D:\Draft\obj\Debug\net8.0-windows\Draft.AssemblyInfo.cs
+D:\Draft\obj\Debug\net8.0-windows\Draft.csproj.CoreCompileInputs.cache
+D:\Draft\obj\Debug\net8.0-windows\Draft.dll
+D:\Draft\obj\Debug\net8.0-windows\refint\Draft.dll
+D:\Draft\obj\Debug\net8.0-windows\Draft.pdb
+D:\Draft\obj\Debug\net8.0-windows\Draft.genruntimeconfig.cache
+D:\Draft\obj\Debug\net8.0-windows\ref\Draft.dll
+D:\Draft\obj\Debug\net8.0-windows\Draft.graph.resources
